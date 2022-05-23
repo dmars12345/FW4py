@@ -1,5 +1,0 @@
-Please refer to official FreeWheel documentation for acceptable values for the functions in this module. 
-You can view that from the link below.
-https://api-docs.freewheel.tv/publisher/docs/getting-started
-This module is mostly used for creating and getting information about placements.
-Please see the FreeWheel4py documentation pdf for the name of all the functions and the parameters.
